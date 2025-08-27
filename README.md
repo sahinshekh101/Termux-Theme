@@ -85,9 +85,9 @@ Made by **SAHIN**, an ethical hacker making cybersecurity fun! 💖
 ### About Me
 - **Name**: SAHIN
 - **Nickname**: SAHIN-SHEKH-101
-- **GitHub**: [Prince4you](https://github.com/SAHIN-SHEKH-101)
-- **Telegram**: [Annon4you](https://t.me/sahinshekh101)
-- **Facebook**: [Noob Cyber Tech](https://www.facebook.com/share/1HrTAb9GoH/)
+- **GitHub**: [SAHIN SHEKH](https://github.com/SAHIN-SHEKH-101)
+- **Telegram**: [SAHIN SHEKH](https://t.me/sahinshekh101)
+- **Facebook**: [SAHIN SHEKH](https://www.facebook.com/share/19dScmG3Mv/)
 
 > **Thanks for supporting** ❤️
 
