@@ -13,7 +13,7 @@
 ## 📸 Screenshot
 
 <p align="center">
-<img src="https://github.com/SAHIN-SHEKH-101/Termux-Theme/blob/main/Banner1.png" alt="Random Banner Screenshot" width="500">
+<img src="https://github.com/sahinshekh101/Termux-Theme/blob/main/Banner1.png" alt="Random Banner Screenshot" width="500">
 </p>
 
 ---
@@ -30,14 +30,14 @@
 
 ### 🚀 single line
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/SAHIN-SHEKH-101/Termux-Theme/main/RANDOM.sh)
+bash <(curl -s https://raw.githubusercontent.com/sahinshekh101/Termux-Theme/main/RANDOM.sh)
 ```
 
 ### 🛠️ Manual
 1. Clone repo:
 
  ```bash
-   git clone https://github.com/SAHIN-SHEKH-101/Termux-Theme.git
+   git clone https://github.com/sahinshekh101/Termux-Theme.git
    ```
 3. Enter directory:
    ```bash
@@ -79,13 +79,13 @@ Restart Termux to see the magic! ✨
 
 ## 🙌 Author
 
-**Random Banner** © (https://github.com/SAHIN-SHEKH-101), [LICENSE](https://github.com/SAHIN-SHEKH-101/Termux-Theme/blob/main/LICENSE).  
+**Random Banner** © (https://github.com/SAHIN-SHEKH-101), [LICENSE](https://github.com/sahinshekh101/Termux-Theme/blob/main/LICENSE).  
 Made by **SAHIN**, an ethical hacker making cybersecurity fun! 💖
 
 ### About Me
 - **Name**: SAHIN
 - **Nickname**: SAHIN-SHEKH-101
-- **GitHub**: [SAHIN SHEKH](https://github.com/SAHIN-SHEKH-101)
+- **GitHub**: [SAHIN SHEKH](https://github.com/SAHINSHEKH101)
 - **Telegram**: [SAHIN SHEKH](https://t.me/sahinshekh101)
 - **Facebook**: [SAHIN SHEKH](https://www.facebook.com/share/19dScmG3Mv/)
 
@@ -95,7 +95,7 @@ Made by **SAHIN**, an ethical hacker making cybersecurity fun! 💖
 
 ## 🤝 Contribute
 
-- 🐛 Report bugs at [Issues](https://github.com/SAHIN-SHEKH-101/Termux-Theme/issues).
+- 🐛 Report bugs at [Issues](https://github.com/sahinshekh101/Termux-Theme/issues).
 - 🛠️ Submit pull requests.
 - ⭐ Star the repo!
 ## 
