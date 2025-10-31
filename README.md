@@ -31,7 +31,7 @@ exit
 ### AT ONCE :
 
 ```
-apt update && apt upgrade -y ; pkg install git -y ; git clone https://github.com/sahinshekh101/Termux-Theme.git ; cd CODEX/ ; chmod +x * ; bash install.sh
+apt update && apt upgrade -y ; pkg install git -y ; git clone https://github.com/sahinshekh101/Termux-Theme.git ; cd SAHIN/ ; chmod +x * ; bash install.sh
 ```
 
 <details id="missing-code-coverage">
